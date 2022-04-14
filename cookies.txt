@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.skokka.com	TRUE	/	FALSE	1999999999	country	IN
+.skokka.com	TRUE	/	FALSE	1999999999	language	en-in
+.skokka.com	TRUE	/	FALSE	1999999999	city	varanasi
+.skokka.com	TRUE	/	FALSE	1999999999	last_vhost	varanasi
+
